@@ -4,8 +4,8 @@
 > Total articles: 273
 
 ## How an AI model should use this file
-1. Scan titles, tags, and summaries below to identify the 1–3 most relevant articles.
-2. Fetch the official `claude.com` URL only for those selected articles when full details or code examples are needed.
+1. Scan titles, tags, and summaries below to identify all relevant articles for the user's question.
+2. Fetch the official `claude.com` URLs for those selected articles (start with the top matches, and pull more if the topic spans multiple areas) when full details or code examples are needed.
 
 ## Articles
 

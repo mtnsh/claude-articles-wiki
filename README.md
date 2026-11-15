@@ -17,7 +17,7 @@ Open the [Live Wiki](https://mtnsh.github.io/claude-articles-wiki/) in your brow
 **Option A — Claude Projects (Recommended)**
 1. Create a new project on [claude.ai](https://claude.ai).
 2. Either upload [`llms.txt`](https://mtnsh.github.io/claude-articles-wiki/llms.txt) to **Project Knowledge**, or add this snippet to your **Project Instructions**:
-   > When asked about Claude features, architecture, Agents, MCP, or Claude Code, scan `https://mtnsh.github.io/claude-articles-wiki/llms.txt`, pick the 1–3 most relevant articles, and fetch their official `claude.com` URLs for up-to-date details.
+   > When asked about Claude features, architecture, Agents, MCP, or Claude Code, scan `https://mtnsh.github.io/claude-articles-wiki/llms.txt`, identify all relevant articles (as many as the topic requires), and fetch their official `claude.com` URLs for up-to-date details.
 
 **Option B — Directly in Any Claude Chat**
 Paste the `llms.txt` URL into your prompt:
